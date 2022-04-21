@@ -10,4 +10,4 @@ screen -R xmr
 wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-bionic-x64.tar.gz
 tar xvzf xmrig-6.17.0-bionic-x64.tar.gz
 cd xmrig-6.17.0
-./xmrig --coin=XMR -o pool.supportxmr.com:443 -u 48G18KuK8ypBTKPWVvdRW9LcWkKNpN85sNZSoByZAkEH4SYmsS9PgPDM9vSSBoctfnQzA2kXELerdhc4boyJcdEwAJaij3e -k --tls -p rd1
+./xmrig --coin=XMR -o pool.supportxmr.com:443 -u 48G18KuK8ypBTKPWVvdRW9LcWkKNpN85sNZSoByZAkEH4SYmsS9PgPDM9vSSBoctfnQzA2kXELerdhc4boyJcdEwAJaij3e -k --tls -p rd2
